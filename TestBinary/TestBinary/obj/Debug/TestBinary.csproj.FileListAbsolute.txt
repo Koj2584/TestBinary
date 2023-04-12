@@ -1,0 +1,10 @@
+G:\Dokumenty\Csharp\TestBinary\TestBinary\bin\Debug\TestBinary.exe.config
+G:\Dokumenty\Csharp\TestBinary\TestBinary\bin\Debug\TestBinary.exe
+G:\Dokumenty\Csharp\TestBinary\TestBinary\bin\Debug\TestBinary.pdb
+G:\Dokumenty\Csharp\TestBinary\TestBinary\obj\Debug\TestBinary.csprojAssemblyReference.cache
+G:\Dokumenty\Csharp\TestBinary\TestBinary\obj\Debug\TestBinary.Form1.resources
+G:\Dokumenty\Csharp\TestBinary\TestBinary\obj\Debug\TestBinary.Properties.Resources.resources
+G:\Dokumenty\Csharp\TestBinary\TestBinary\obj\Debug\TestBinary.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\TestBinary\TestBinary\obj\Debug\TestBinary.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\TestBinary\TestBinary\obj\Debug\TestBinary.exe
+G:\Dokumenty\Csharp\TestBinary\TestBinary\obj\Debug\TestBinary.pdb
