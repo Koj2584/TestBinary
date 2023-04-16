@@ -107,8 +107,8 @@ namespace TestBinary
             {
                 BinaryWriter bw = new BinaryWriter(fs);
                 bw.BaseStream.Position = br.BaseStream.Position;
-                /*bw.Write("John");
-                bw.Write("Doe");*/
+                bw.Write("John");
+                bw.Write("Doe");
                 label6.Text = "Pozor průměr žáka je 5 bylo by potřeba zlepšit průměr!!!";
             }
             br.Close();

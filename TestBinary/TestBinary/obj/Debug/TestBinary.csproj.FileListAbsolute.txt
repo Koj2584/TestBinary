@@ -8,3 +8,14 @@ G:\Dokumenty\Csharp\TestBinary\TestBinary\obj\Debug\TestBinary.csproj.GenerateRe
 G:\Dokumenty\Csharp\TestBinary\TestBinary\obj\Debug\TestBinary.csproj.CoreCompileInputs.cache
 G:\Dokumenty\Csharp\TestBinary\TestBinary\obj\Debug\TestBinary.exe
 G:\Dokumenty\Csharp\TestBinary\TestBinary\obj\Debug\TestBinary.pdb
+C:\Users\kubik\Source\Repos\TestBinary\TestBinary\TestBinary\bin\Debug\TestBinary.exe.config
+C:\Users\kubik\Source\Repos\TestBinary\TestBinary\TestBinary\bin\Debug\TestBinary.exe
+C:\Users\kubik\Source\Repos\TestBinary\TestBinary\TestBinary\bin\Debug\TestBinary.pdb
+C:\Users\kubik\Source\Repos\TestBinary\TestBinary\TestBinary\obj\Debug\TestBinary.csproj.AssemblyReference.cache
+C:\Users\kubik\Source\Repos\TestBinary\TestBinary\TestBinary\obj\Debug\TestBinary.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubik\Source\Repos\TestBinary\TestBinary\TestBinary\obj\Debug\TestBinary.Form1.resources
+C:\Users\kubik\Source\Repos\TestBinary\TestBinary\TestBinary\obj\Debug\TestBinary.Properties.Resources.resources
+C:\Users\kubik\Source\Repos\TestBinary\TestBinary\TestBinary\obj\Debug\TestBinary.csproj.GenerateResource.cache
+C:\Users\kubik\Source\Repos\TestBinary\TestBinary\TestBinary\obj\Debug\TestBinary.csproj.CoreCompileInputs.cache
+C:\Users\kubik\Source\Repos\TestBinary\TestBinary\TestBinary\obj\Debug\TestBinary.exe
+C:\Users\kubik\Source\Repos\TestBinary\TestBinary\TestBinary\obj\Debug\TestBinary.pdb
